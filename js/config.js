@@ -33,7 +33,7 @@ let config = {
 
 
   // Текст копирайта
-  copyrightText: 'dev - DarKi#1288',
+  copyrightText: 'Ты лапочка <3',
   // Цвет копирайта
   copyrightTextColor: '#198bfa',
 
