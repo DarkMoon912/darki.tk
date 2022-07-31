@@ -11,7 +11,7 @@ let config = {
 
   // Социальные сети
   social: {
-    discord:'zayne',
+    discord:'aquaru',
     telegram: '@DarkMooon83',
   },
 
